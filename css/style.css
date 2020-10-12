@@ -112,6 +112,7 @@ footer {
 
 	header {
 		display: flex;
+		align-items: flex-start;
 		flex-direction: column;
 		margin: 12px 0 70px 0;
 		width: 100%;
